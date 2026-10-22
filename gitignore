@@ -1,0 +1,22 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Private configuration and credentials
+.env
+.env.*
+credentials.json
+printer_config.json
+
+# Files generated while the digital twin is running
+session_logs/
+telemetry_logs/
+mqtt_logs/
+validation_results/
+*.log
+
+# Operating-system files
+Thumbs.db
+.DS_Store

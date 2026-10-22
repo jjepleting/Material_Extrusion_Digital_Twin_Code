@@ -1,0 +1,8 @@
+PySide6
+pyqtgraph
+PyOpenGL
+paho-mqtt
+numpy
+pandas
+joblib
+scikit-learn==1.6.1
